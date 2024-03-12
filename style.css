@@ -1,0 +1,20 @@
+header{
+    text-align: center;
+    background-color: lightgreen;
+    margin-top: 15px;
+    padding: 2px;
+    color: green;
+    text-decoration: overline;
+}
+
+nav{
+    background-color: lightgrey;
+    text-align: center;
+
+}
+a{
+    color: gray;
+    text-decoration: none;
+    padding: 20px;
+    border: 2px;
+}
